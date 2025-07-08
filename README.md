@@ -1,18 +1,30 @@
-# Python 1 – Lógica de Programación
+# Python 1 – Programming Logic
 
-Este repositorio contiene mis primeras prácticas en Python, centradas en la lógica de programación básica. Forma parte de mi formación como futura analista de datos en el sector agrícola.
+This repository contains my first exercises in Python, focused on learning the basics of programming logic and data types. It is part of my self-taught training to become a data analyst, with a focus on agricultural data.
 
-## Archivos
+## 📂 Contents
 
-- `00_sintaxis_variables_tipos_de_datos.py`: Sintaxis, tipos de datos (`int`, `float`, `str`, `bool`) y variables.
-- `01_operadores.py`: Operadores aritméticos, lógicos y de comparación.
+- `00_sintaxis_variables_tipos_de_datos.py`  
+  Basic Python syntax, variable declaration, and data types (`int`, `float`, `str`, `bool`).
 
-## Objetivo
+- `01_operadores.py`  
+  Practice with arithmetic, comparison, and logical operators.
 
-Desarrollar una base sólida en programación estructurada con Python, como paso inicial hacia la ciencia de datos.
+## 🎯 Learning Objective
 
-## Autor
+To build a solid foundation in structured programming using Python, as a first step toward data science and data analysis in the agricultural sector.
+
+## 🧭 Next Topics
+
+- Conditional statements (`if`, `else`, `elif`)
+- Loops (`for`, `while`)
+- Functions
+- Data structures (`list`, `dict`, `set`)
+- Input handling and basic algorithms
+- Code organization with modules
+
+## 👩‍💻 Author
 
 **KS Gamboa**  
-[GitHub: @AgroKarla](https://github.com/AgroKarla)  
-Correo: gamboaurenakarla@gmail.com
+GitHub: [@AgroKarla](https://github.com/AgroKarla)  
+📧 gamboaurenakarla@gmail.com
